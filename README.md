@@ -7,7 +7,7 @@ A community of lifelong learners and  responsible global citizens. We Spend most
 
 <!-- Social -->
 [![Twitter Badge](https://img.shields.io/badge/-@bigseccommunity-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/bigseccommunity)](https://t.me/bigseccommunity) [![Mail Badge](https://img.shields.io/badge/-Bigsec_Community-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn2HuLodBG4jo8RwgQpj6hQ) [![Mail Badge](https://img.shields.io/badge/-vbigsec-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vbigsec@gmail.com)
-[![Mail Badge](https://img.shields.io/badge/-play.bigsec.in-e84393?style=flat&labelColor=e84393&logo=youtube&logoColor=white)](https:/play.bigsec.in/) 
+[![Mail Badge](https://img.shields.io/badge/-play.bigsec.in-e84393?style=flat&labelColor=e84393&logo=youtube&logoColor=white)](https://play.bigsec.in/) 
 
 ### Contact:
 
