@@ -2,7 +2,6 @@
 
 A community of lifelong learners and  responsible global citizens. We Spend most of time coding outstanding projects or recording tutorials.
 <hr>
-<br>
 
 ### Social:
 
